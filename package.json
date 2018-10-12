@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "@babel/polyfill": "^7.0.0-beta.40",
-    "coffeescript": "^2.2.1",
+    "coffeescript": "^2.3.1",
     "fast-glob": "^2.0.4",
     "relay-compiler": "^1.6.0",
     "yargs": "^11.0.0"
