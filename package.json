@@ -12,11 +12,11 @@
   "author": "Samuel Cormier-Iijima <samuel@cormier-iijima.com>",
   "license": "MIT",
   "dependencies": {
-    "@babel/polyfill": "^7.0.0-beta.40",
+    "@babel/polyfill": "^7.0.0",
     "coffeescript": "^2.3.1",
-    "fast-glob": "^2.0.4",
-    "relay-compiler": "^1.6.0",
-    "yargs": "^11.0.0"
+    "fast-glob": "^2.2.3",
+    "relay-compiler": "^1.6.2",
+    "yargs": "^11.1.0"
   },
   "coffeelintConfig": {
     "no_tabs": {
@@ -30,10 +30,10 @@
     }
   },
   "devDependencies": {
-    "@babel/core": "^7.0.0-beta.40",
-    "@babel/preset-env": "^7.0.0-beta.40",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
     "babel-core": "^6.26.0",
-    "babel-preset-env": "^1.6.1",
+    "babel-preset-env": "^1.7.0",
     "coffeelint": "^2.1.0",
     "graphql": "^0.13.2"
   }
